@@ -1,4 +1,4 @@
-# React project for the React course
+# React to Do App
 
 ## Available Scripts
 

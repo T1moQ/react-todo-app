@@ -1,0 +1,10 @@
+.actionsWrapper {
+   margin-top: 40px;
+}
+
+.repeatIcon {
+   color: #000;
+   font-size: 1.8rem;
+   cursor: pointer;
+   padding: 7px;
+}
